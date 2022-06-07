@@ -34,32 +34,32 @@ import zoha from "./Assets/teami/zoha.png";
 
 
 const TOP_SECTION = {
-  TITLE: "Join Limbo Hacks",
+  TITLE: "Game Of Codes",
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
   SHORT_DESCRIPTION:
-    "Join us on 20th November 2021 with over 300 students from across the nation for 24 hours of creation, innovation, & fun.",
+    "Join us on -------- with over 150 students from across the nation for 24 hours of creation, innovation, & fun.",
   IMG_SRC: boy,
   DISCORD_LINK: "",
   JUDGES_FORM_LINK:
-    "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNVRQMUg4VllMRURDN1lON0haNFVCQUgySC4u",
+    "#",
   HACKERS_REGISTRATION_FORM_LINK:
-    "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNTgyREk0VzdEMU9RVFlPMVNWVEJQUkNYMi4u"
+    "#"
 };
 
 const SOCIALS = {
-  instagram: "https://www.instagram.com/limbohacks/",
-  discord: "https://discord.com/invite/8XJSzmtWPp",
-  linkedin: "https://www.linkedin.com/company/limbo-hacks/",
-  twitter: "https://twitter.com/HacksLimbo",
-  devpost: "https://limbo-hacks-12968.devpost.com/",
-  email: "mailto:hello@limbohacks.tech",
-  mail: "hello@limbohacks.tech"
+  instagram: "https://www.inst",
+  discord: "https:/",
+  linkedin: "https://www.linkedin.com",
+  twitter: "https://t",
+  devpost: "https://GameOfCodes-hac",
+  email: "mailto:",
+  mail: ""
 };
 
 const MIDDLE_SECTION = {
-  TITLE: "What is Limbo hacks?",
+  TITLE: "What is GameOfCodes hacks?",
   LONG_DESCRIPTION:
-    "Hack Limbo is 24 hour long running hackathon will be held on November 20th & 21th , We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers . Throughout the weekend hackers at Limbo Hacks will have unique opportunities to learn from each other trying hands in new technologies We are determined to have an all-inclusive and diverse group of students attending.",
+    "Hack GameOfCodes is 24 hour long running hackathon will be held on November 20th & 21th , We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers . Throughout the weekend hackers at GameOfCodes Hacks will have unique opportunities to learn from each other trying hands in new technologies We are determined to have an all-inclusive and diverse group of students attending.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -235,22 +235,22 @@ const TeamInfo = [
   [
     //Array 1
     {
-      Name: "Rehan",
-      role: "Organizer",
-      github: "https://github.com/Limbo-Hacks/Hackathon-website-template",
+      Name: "Bharath Sagar",
+      role: "Bharath Sagar - Lead",
+      github: "#",
       linkedin: "",
       img: me
     },
     {
-      Name: "Moon",
-      role: "Organizer",
+      Name: "Parshant Kumar",
+      role: "Parshant Kumar - Lead",
       github: "",
       linkedin: "",
       img: moon
     },
     {
-      Name: "Erika",
-      role: "Organizer",
+      Name: "Ajay Rana",
+      role: "Ajay Rana - Lead",
       github: "",
       linkedin: "",
       img: Ryah
@@ -259,19 +259,47 @@ const TeamInfo = [
   [
     //Array 2
     {
-      Name: "Lyanola",
-      role: "Organizer",
+      Name: "Kavitha A M",
+      role: "Lead Organizer",
       github: "",
       linkedin: "",
       img: lyin
     },
     {
-      Name: "Zoheb",
+      Name: "Poornachandra Kashi",
       role: "Organizer",
       github: "",
       linkedin: "",
       img: zoha
-    },    
+    },
+    {
+      Name: "Akhel P",
+      role: "Organizer",
+      github: "",
+      linkedin: "",
+      img: zoha
+    },
+    {
+      Name: "Ateev Kapoor",
+      role: "Organizer",
+      github: "",
+      linkedin: "",
+      img: zoha
+    },
+    {
+      Name: "Anup Mathew",
+      role: "Organizer",
+      github: "",
+      linkedin: "",
+      img: zoha
+    },
+    {
+      Name: "Shreyas M",
+      role: "Organizer",
+      github: "",
+      linkedin: "",
+      img: zoha
+    }    
   ] 
 ];
 
@@ -345,7 +373,7 @@ const frequentlyAskedQuestions  = [
         'A hackathon is a 24 hour event where "hackers" all over the globe will collaborate on creating a functioning software and hardware by the end of the event.'      },
       {
         label: "Who can attend?",
-        content: "Limbo Hacks is open to all undergraduate, high school students and middle school students from all schools."
+        content: "GameOfCodes Hacks is open to all undergraduate, high school students and middle school students from all schools."
       },
       {
         label: "I am a first time hacker, what should I do?",
@@ -363,7 +391,7 @@ const frequentlyAskedQuestions  = [
       },
       {
         label: "I have more questions?",
-        content: "Reach us directly at (rehan@limbohacks.tech or hello@limbohacks.tech) we would happy to help you."
+        content: "Reach us directly at (rehan@GameOfCodeshacks.tech or hello@GameOfCodeshacks.tech) we would happy to help you."
       }
       ,
       {
@@ -373,7 +401,7 @@ const frequentlyAskedQuestions  = [
       ,
       {
         label: "Will there be swag?",
-        content: "Yes! Participants will recieveing Limbo Hacks swag!."
+        content: "Yes! Participants will recieveing GameOfCodes Hacks swag!."
       }
     ]
   ],
